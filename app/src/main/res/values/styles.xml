@@ -7,7 +7,11 @@
         <item name="android:background">#303030</item>
         <item name="android:textColor">#ffffff</item>
         <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:textColorTertiary">#ffffff</item>
+        <item name="android:textColorHint">#ffffff</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorAlertDialogListItem">#ffffff</item>
+
         <!-- Customize your theme here. -->
     </style>
-
 </resources>
